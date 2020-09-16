@@ -10,7 +10,7 @@ Sending an Email in Python via Gmail using smtplib
 
 In order for this script to work, you must also enable "less secure apps" to access your Gmail account. As a warning, this is not ideal, and Google does indeed warn against enabling this feature. Be forewarned!
 [https://myaccount.google.com/lesssecureapps](https://myaccount.google.com/lesssecureapps?)
-
+<img src="https://github.com/vaibhavhariaramani/Sending-an-Email-in-Python-via-Gmail/blob/master/security.png"> <img width="500" src="https://github.com/vaibhavhariaramani/Sending-an-Email-in-Python-via-Gmail/blob/master/less%20on.png"> 
 
 
 update `config.py` file with your user name and password
